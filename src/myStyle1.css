@@ -1,0 +1,73 @@
+html,body{
+    background-color: white;
+}
+
+.minus{
+    color: rgb(74, 135, 192);
+    font-size:xx-large;
+    text-align: center;
+}
+
+.first{
+    width: 250px;
+    height: 50px;
+    border : 1px solid black;
+    border-radius:25px;
+    background-color: aqua;
+    color:blue;
+    position:absolute;
+    left:25%;
+    top:15%;
+    cursor: pointer;
+}
+.second{
+    width: 250px;
+    height: 50px;
+    border : 1px solid black;
+    border-radius:25px;
+    background-color: aqua;
+    color:blue;
+    position:absolute;
+    left:57%;
+    top:15%;
+    cursor: pointer;
+}
+
+.fourth{
+    color:brown;
+}
+
+.box1{
+    width: 450px;
+    height: 150px;
+    border : 1px solid black;
+    border-radius:15px;
+    background-color: yellow;
+    position:absolute;
+    left:10%;
+    top:35%;
+    text-align: center;
+}
+
+.box2{
+    width: 450px;
+    height: 150px;
+    border : 1px solid black;
+    border-radius:15px;
+    background-color: yellow;
+    position:absolute;
+    left:57%;
+    top:35%;
+    text-align :center;
+}
+
+.third{
+    color: black;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.fourth{
+    color:rgb(102, 127, 160);
+    font-family: 'Times New Roman', Times, serif;
+}
